@@ -1,0 +1,35 @@
+{
+  "name": "homebridge-hue-event-sensor",
+  "version": "0.0.1",
+  "displayName": "Homebridge Hue Event Sensor",
+  "description": "A Hue event sensor using API v2 for Homebridge: https://github.com/nfarina/homebridge",
+  "license": "GPL-3.0",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "plugin",
+    "hue",
+    "event",
+    "sensor",
+    "smart",
+    "homekit",
+    "siri"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benzman81/homebridge-hue-event-sensor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benzman81/homebridge-hue-event-sensor/issues"
+  },
+  "engines": {
+    "node": ">=9.11.2",
+    "homebridge": ">=0.3.0"
+  },
+  "dependencies": {
+    "eventsource": "^1.1.0",
+    "request": "2.87.x"
+  },
+  "homepage": "https://github.com/benzman81/homebridge-hue-event-sensor#readme",
+  "author": "benzman81"
+}
