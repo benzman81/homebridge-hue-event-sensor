@@ -1,6 +1,6 @@
 {
   "name": "homebridge-hue-event-sensor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Homebridge Hue Event Sensor",
   "description": "A Hue event sensor using API v2 for Homebridge: https://github.com/nfarina/homebridge",
   "license": "GPL-3.0",
